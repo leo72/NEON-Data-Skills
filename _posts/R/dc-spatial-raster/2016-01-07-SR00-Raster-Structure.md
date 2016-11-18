@@ -415,6 +415,10 @@ identify questionable values.
 
 ## Create A Histogram of Raster Values
 
+    #code here
+    What?
+don't like?
+
 We can explore the distribution of values contained within our raster using the 
 `hist()` function which produces a histogram. Histograms are often useful in 
 identifying outliers and bad data values in our raster data.
