@@ -419,6 +419,8 @@ identify questionable values.
     What?
 don't like?
 
+    and this is code too
+
 We can explore the distribution of values contained within our raster using the 
 `hist()` function which produces a histogram. Histograms are often useful in 
 identifying outliers and bad data values in our raster data.
