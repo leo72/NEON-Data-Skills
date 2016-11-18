@@ -6,8 +6,8 @@ description: 	A site to host education materials that support the use of big dat
 
 #use this when working locally
 #just uncomment the first localhost.
-url: http://localhost:4000
-baseurl: http://localhost:4000
+url: http://localhost:4000/NEON-Data-Skills
+#baseurl: http://localhost:4000/NEON-Data-Skills
 
 disqus_shortname: neondataskills
 
