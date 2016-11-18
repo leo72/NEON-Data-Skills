@@ -6,7 +6,7 @@ description: 	A site to host education materials that support the use of big dat
 
 #use this when working locally
 #just uncomment the first localhost.
-url: https://leo72.github.io/NEON-Data-Skills/
+url: https://leo72.github.io/NEON-Data-Skills
 baseurl: /NEON-Data-Skills
 
 disqus_shortname: neondataskills
